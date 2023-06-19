@@ -20,6 +20,10 @@ public class GetClassLoaderExample {
                 split.insert(0, "\t");
             }
         }
+        // 通过线程上下文获取
+        System.out.println(Thread.currentThread().getContextClassLoader());
+        // 获取系统类加载器
+        System.out.println(ClassLoader.getSystemClassLoader());
     }
 
 }
