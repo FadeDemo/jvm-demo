@@ -11,6 +11,7 @@ public class SetNewRatioExample {
         // -XX:+PrintGCDetails
         // -Xms512m -Xmx512m
         // -XX:NewRatio=1
+        // 与 -Xmn200m 同时出现时，新生代应该是200MB
         System.out.println("Young Gen/Old Gen...");
     }
 
