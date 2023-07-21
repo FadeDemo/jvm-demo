@@ -1,0 +1,1 @@
+java -Xmixed -version

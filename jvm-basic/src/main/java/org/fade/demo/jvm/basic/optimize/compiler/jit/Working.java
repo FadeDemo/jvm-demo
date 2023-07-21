@@ -1,4 +1,4 @@
-package org.fade.demo.jvm.basic.jit;
+package org.fade.demo.jvm.basic.optimize.compiler.jit;
 
 import java.util.ArrayList;
 import java.util.List;
