@@ -1,4 +1,4 @@
-package org.fade.demo.jvm.basic.optimize.compiler;
+package org.fade.demo.jvm.basic.optimize.compiler.jit;
 
 /**
  * 体现不同编译模式的区别
