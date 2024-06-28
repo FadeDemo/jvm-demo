@@ -17,6 +17,8 @@ target/
 .settings
 .springBeans
 .sts4-cache
+**/**.index
+**/**.threads
 
 ### NetBeans ###
 /nbproject/private/
